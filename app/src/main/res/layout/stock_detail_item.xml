@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center">
+
+    <androidx.cardview.widget.CardView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|top"
+        app:cardCornerRadius="15dp"
+        app:cardElevation="5dp"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="5dp"
+        app:cardUseCompatPadding="true"
+        app:cardMaxElevation="1dp"
+        app:cardPreventCornerOverlap="true">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/logo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:padding="10dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/tesla_24"
+                android:textColor="@color/teal_700" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="45dp"
+                android:padding="10dp"
+                android:text="Overview"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:textStyle="bold"></TextView>
+
+            <ImageView
+                android:id="@+id/watchlist_seeall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:src="@drawable/question_24"
+                android:padding="10dp"
+                android:textColor="@color/teal_700" />
+        </RelativeLayout>
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/stock_open"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentTop="true"
+                        android:layout_marginLeft="10dp"
+                        android:background="@color/white"
+                        android:gravity="left"
+                        android:padding="5dp"
+                        android:text="Open"
+                        android:textSize="15sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/stock_open_value"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentTop="true"
+                        android:layout_marginLeft="10dp"
+                        android:background="@color/white"
+                        android:textColor="@color/black"
+                        android:gravity="left"
+                        android:padding="5dp"
+                        android:text="$909.98"
+                        android:textStyle="bold"
+                        android:textSize="15sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:orientation="vertical">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/stock_low"
+                        android:text="Day_low"
+                        android:textStyle="bold"
+                        android:layout_marginLeft="10dp"
+                        android:background="@color/white"
+                        android:gravity="left"
+                        android:padding="5dp"
+                        android:textSize="15sp"
+                        android:layout_alignParentTop="true" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/stock_low_value"
+                        android:text="$902.11"
+                        android:textStyle="bold"
+                        android:layout_marginLeft="10dp"
+                        android:textColor="@color/black"
+                        android:background="@color/white"
+                        android:gravity="left"
+                        android:textSize="15sp"
+                        android:padding="5dp"
+                        android:layout_alignParentTop="true" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:orientation="vertical">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/stock_high"
+                        android:text="Day High"
+                        android:textStyle="bold"
+                        android:layout_marginLeft="10dp"
+                        android:background="@color/white"
+                        android:gravity="left"
+                        android:textSize="15sp"
+                        android:padding="5dp"
+                        android:layout_alignParentTop="true" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/stock_high_value"
+                        android:textColor="@color/black"
+                        android:text="$910.18"
+                        android:textStyle="bold"
+                        android:layout_marginLeft="10dp"
+                        android:background="@color/white"
+                        android:gravity="left"
+                        android:textSize="15sp"
+                        android:padding="5dp"
+                        android:layout_alignParentTop="true" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>

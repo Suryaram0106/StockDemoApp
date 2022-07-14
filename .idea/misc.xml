@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ramvi/AndroidStudioProjects/StocksDemoApp/app/src/main/res/drawable/bottom_navigation_selector.xml" value="0.114" />
+        <entry key="..\:/Users/ramvi/AndroidStudioProjects/StocksDemoApp/app/src/main/res/drawable/candelstick_selector.xml" value="0.114" />
+        <entry key="..\:/Users/ramvi/AndroidStudioProjects/StocksDemoApp/app/src/main/res/drawable/candlestick_chart_24_color.xml" value="0.114" />
+        <entry key="..\:/Users/ramvi/AndroidStudioProjects/StocksDemoApp/app/src/main/res/drawable/home_selector.xml" value="0.114" />
+        <entry key="..\:/Users/ramvi/AndroidStudioProjects/StocksDemoApp/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.114" />
+        <entry key="..\:/Users/ramvi/AndroidStudioProjects/StocksDemoApp/app/src/main/res/drawable/ic_baseline_candlestick_chart_24.xml" value="0.114" />
+        <entry key="..\:/Users/ramvi/AndroidStudioProjects/StocksDemoApp/app/src/main/res/drawable/ic_baseline_circle.xml" value="0.1" />
+        <entry key="..\:/Users/ramvi/AndroidStudioProjects/StocksDemoApp/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.114" />
+        <entry key="..\:/Users/ramvi/AndroidStudioProjects/StocksDemoApp/app/src/main/res/drawable/ic_baseline_person_24_color.xml" value="0.114" />
+        <entry key="..\:/Users/ramvi/AndroidStudioProjects/StocksDemoApp/app/src/main/res/drawable/ic_baseline_pie_chart_24.xml" value="0.114" />
+        <entry key="..\:/Users/ramvi/AndroidStudioProjects/StocksDemoApp/app/src/main/res/drawable/ic_baseline_pie_chart_24_color.xml" value="0.114" />
+        <entry key="..\:/Users/ramvi/AndroidStudioProjects/StocksDemoApp/app/src/main/res/drawable/ic_baseline_swap_horizontal_circle_24.xml" value="0.114" />
+        <entry key="..\:/Users/ramvi/AndroidStudioProjects/StocksDemoApp/app/src/main/res/drawable/ic_baseline_swap_horizontal_circle_24_color.xml" value="0.114" />
+        <entry key="..\:/Users/ramvi/AndroidStudioProjects/StocksDemoApp/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.114" />
+        <entry key="..\:/Users/ramvi/AndroidStudioProjects/StocksDemoApp/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.114" />
+        <entry key="..\:/Users/ramvi/AndroidStudioProjects/StocksDemoApp/app/src/main/res/drawable/ic_home_black_24dp_color.xml" value="0.114" />
+        <entry key="..\:/Users/ramvi/AndroidStudioProjects/StocksDemoApp/app/src/main/res/drawable/ic_logo.xml" value="0.114" />
+        <entry key="..\:/Users/ramvi/AndroidStudioProjects/StocksDemoApp/app/src/main/res/drawable/menu.xml" value="0.1" />
+        <entry key="..\:/Users/ramvi/AndroidStudioProjects/StocksDemoApp/app/src/main/res/drawable/person_selector.xml" value="0.114" />
+        <entry key="..\:/Users/ramvi/AndroidStudioProjects/StocksDemoApp/app/src/main/res/drawable/pie_selector.xml" value="0.114" />
+        <entry key="..\:/Users/ramvi/AndroidStudioProjects/StocksDemoApp/app/src/main/res/drawable/search_view_bg.xml" value="0.1" />
+        <entry key="..\:/Users/ramvi/AndroidStudioProjects/StocksDemoApp/app/src/main/res/drawable/swap_selector.xml" value="0.114" />
+        <entry key="..\:/Users/ramvi/AndroidStudioProjects/StocksDemoApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/ramvi/AndroidStudioProjects/StocksDemoApp/app/src/main/res/layout/activity_stocks_detail.xml" value="0.1234375" />
+        <entry key="..\:/Users/ramvi/AndroidStudioProjects/StocksDemoApp/app/src/main/res/layout/activity_test.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/ramvi/AndroidStudioProjects/StocksDemoApp/app/src/main/res/layout/fragment_dashboard.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/ramvi/AndroidStudioProjects/StocksDemoApp/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Users/ramvi/AndroidStudioProjects/StocksDemoApp/app/src/main/res/layout/fragment_notifications.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/ramvi/AndroidStudioProjects/StocksDemoApp/app/src/main/res/layout/fragment_profile..xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/ramvi/AndroidStudioProjects/StocksDemoApp/app/src/main/res/layout/market_fragment.xml" value="0.18" />
+        <entry key="..\:/Users/ramvi/AndroidStudioProjects/StocksDemoApp/app/src/main/res/layout/menu.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/ramvi/AndroidStudioProjects/StocksDemoApp/app/src/main/res/layout/stock_detail_item.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/ramvi/AndroidStudioProjects/StocksDemoApp/app/src/main/res/layout/stocks_activity_item.xml" value="0.1421875" />
+        <entry key="..\:/Users/ramvi/AndroidStudioProjects/StocksDemoApp/app/src/main/res/layout/watchlist_item.xml" value="0.15" />
+        <entry key="..\:/Users/ramvi/AndroidStudioProjects/StocksDemoApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
